@@ -1,0 +1,9 @@
+{
+  "name": "perpusapp-vercel-api",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Vercel API proxy untuk PerpusApp Launcher update checker",
+  "engines": {
+    "node": ">=20"
+  }
+}
