@@ -12,8 +12,8 @@ Proxy aman antara Electron Launcher dan GitHub private repo.
 |----------------------|------------------------------------|-----------------------------------------|
 | `LAUNCHER_SECRET_KEY`| `buat-sendiri-string-acak-panjang` | Secret yang sama disimpan di launcher   |
 | `GITHUB_TOKEN`       | `ghp_xxx...` (token akun **bot**)  | Token akun bot, kolaborator repo private|
-| `GITHUB_USER`        | `mughitsFM`                        | Username akun utama pemilik repo        |
-| `GITHUB_REPO`        | `Web_Perpus_APP`                   | Nama repo private                       |
+| `GITHUB_USER`        | `....`                        | Username akun utama pemilik repo        |
+| `GITHUB_REPO`        | `.....`                   | Nama repo private                       |
 
 4. Deploy → Vercel beri URL seperti `https://perpusapp-api.vercel.app`
 
